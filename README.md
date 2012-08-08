@@ -5,8 +5,8 @@ Donors Choose WordPress Plugin allows you to drop in a widget in your WordPress 
 
 Screenshots
 -----------
-*Widget In Sidebar*
+*Widget In Sidebar*  
 ![Donors Choose WordPress Widget](http://farm9.staticflickr.com/8428/7741884278_0aab8e7205_z_d.jpg "Donors Choose WordPress Widget")
 
-*Widget In Admin*
+*Widget In Admin*  
 ![Donors Choose WordPress Widget](http://farm9.staticflickr.com/8293/7741884492_05ef89c874_z_d.jpg "Donors Choose WordPress Widget")
