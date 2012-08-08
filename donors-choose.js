@@ -1,6 +1,6 @@
 $(document).ready(function() {
   var zip = $("#hZip").val();
-  $.getJSON('http://api.donorschoose.org/common/json_feed.html?state=' + zip + '&APIKey=DONORSCHOOSE&callback=?', function(data) {
+  $.getJSON('http://api.donorschoose.org/common/json_feed.html?zipcode=' + zip + '&APIKey=DONORSCHOOSE&callback=?', function(data) {
 
     var output = "";
     output += '<h3>Donate To Area Schools</h3>';
